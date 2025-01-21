@@ -1,4 +1,4 @@
-# My-first-working-game
+# My-first-workin
 This is my first working game so dont expect too much
 
 you need to install pygame library before playing the game
